@@ -9,6 +9,6 @@ This is a VERY simple snake game written in QB64 (modern QuickBASIC).
    qb64pe -x snake.bas
 
 
-### More retro games coming soon
+### Will try to make more retro games later
 ###### Inspired by The Coding Train on youtube
 ###### Snake not finished yet
