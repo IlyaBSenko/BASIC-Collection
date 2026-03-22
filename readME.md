@@ -1,5 +1,4 @@
-# Retro Games in QB64 BASIC
-###### Only Snake so far
+# Retro Games in QB64 BASIC 
 
 This is a VERY simple snake game written in QB64 (modern QuickBASIC).
 
@@ -11,4 +10,5 @@ This is a VERY simple snake game written in QB64 (modern QuickBASIC).
 
 
 ### More retro games coming soon
+###### Inspired by The Coding Train on youtube
 ###### Snake not finished yet
