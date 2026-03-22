@@ -1,4 +1,5 @@
-# Snake in QB64 BASIC
+# Retro Games in QB64 BASIC
+###### Only Snake so far
 
 This is a VERY simple snake game written in QB64 (modern QuickBASIC).
 
